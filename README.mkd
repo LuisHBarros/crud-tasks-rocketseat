@@ -1,0 +1,10 @@
+Projeto baseado no Desafio 01 de Node.js, do Ignite da Rocketseat
+
+https://efficient-sloth-d85.notion.site/Desafio-01-2d48608f47644519a408b438b52d913f
+
+É uma API simples, desenvolvida apenas com Node e Express, que possibilita a listagem, criação, atualização, exclusão e conclusão de "tasks", por meio de requisições http
+Ainda dentro dos recursos da API, é possível importar um arquivo CSV para exportar as informações para o banco de dados (feito em json), utilizando o formato "multipart/form-data"
+
+A API ainda conta com alguns recursos extras, como validação de dados nas rotas de criação e atualização de "tasks".
+
+Uma API simples para um grande início na Rocketseat!
